@@ -1,0 +1,1167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_4196_NguyenTriKhang_KLTN_</RootNamespace>
+    <AssemblyName>_4196_NguyenTriKhang_KLTN_</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=9.0.0.3, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Configuration.ConfigurationManager.9.0.3\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoCaoCongNoPhaiThuKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoCongNoPhaiThuKhachHang.Designer.cs">
+      <DependentUpon>BaoCaoCongNoPhaiThuKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHDGTGT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHDGTGT.Designer.cs">
+      <DependentUpon>FormHDGTGT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoCongNoPhaiThuKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoCongNoPhaiThuKhachHang.Designer.cs">
+      <DependentUpon>FrmBaoCaoCongNoPhaiThuKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoGiayBaoCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoGiayBaoCo.Designer.cs">
+      <DependentUpon>FrmBaoCaoGiayBaoCo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoHoaDonGTGT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoHoaDonGTGT.Designer.cs">
+      <DependentUpon>FrmBaoCaoHoaDonGTGT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoNKTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoNKTT.Designer.cs">
+      <DependentUpon>FrmBaoCaoNKTT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoPhieuThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoPhieuThu.Designer.cs">
+      <DependentUpon>FrmBaoCaoPhieuThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoPhieuXuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoPhieuXuatKho.Designer.cs">
+      <DependentUpon>FrmBaoCaoPhieuXuatKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoSoNhatKyChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoSoNhatKyChung.Designer.cs">
+      <DependentUpon>FrmBaoCaoSoNhatKyChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaoCaoTGNH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaoCaoTGNH.Designer.cs">
+      <DependentUpon>FrmBaoCaoTGNH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmButToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmButToan.Designer.cs">
+      <DependentUpon>FrmButToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChiTietChungTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChiTietChungTu.Designer.cs">
+      <DependentUpon>FrmChiTietChungTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChucVu.Designer.cs">
+      <DependentUpon>FrmChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDangNhap.Designer.cs">
+      <DependentUpon>FrmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoiMK.Designer.cs">
+      <DependentUpon>FrmDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiayBaoCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiayBaoCo.Designer.cs">
+      <DependentUpon>FrmGiayBaoCo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKeToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKeToan.Designer.cs">
+      <DependentUpon>FrmKeToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKhachHang.Designer.cs">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoaiCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoaiCT.Designer.cs">
+      <DependentUpon>FrmLoaiCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNhaCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNhaCC.Designer.cs">
+      <DependentUpon>FrmNhaCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNhanVien.Designer.cs">
+      <DependentUpon>FrmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNhomSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNhomSP.Designer.cs">
+      <DependentUpon>FrmNhomSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPhucHoiDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPhucHoiDL.Designer.cs">
+      <DependentUpon>FrmPhucHoiDL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSanPham.Designer.cs">
+      <DependentUpon>FrmSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSoCai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSoCai.Designer.cs">
+      <DependentUpon>FrmSoCai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSoChiTietVatTuHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSoChiTietVatTuHangHoa.Designer.cs">
+      <DependentUpon>FrmSoChiTietVatTuHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSoDuDK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSoDuDK.Designer.cs">
+      <DependentUpon>FrmSoDuDK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaiKhoan.Designer.cs">
+      <DependentUpon>FrmTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTKC1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTKC1.Designer.cs">
+      <DependentUpon>FrmTKC1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTKCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTKCT.Designer.cs">
+      <DependentUpon>FrmTKCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrangChu.Designer.cs">
+      <DependentUpon>FrmTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KetNoi.cs" />
+    <Compile Include="FrmPhieuthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPhieuthu.Designer.cs">
+      <DependentUpon>FrmPhieuthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuXuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuXuatKho.Designer.cs">
+      <DependentUpon>PhieuXuatKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLRBWDsButtoan.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsButtoan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsChucVu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsChucVu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsCNPTKH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsCNPTKH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsCNPT_DT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsCNPT_DT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsCNPT_HD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsCNPT_HD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsCTTT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsCTTT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsGBCRPT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsGBCRPT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsGiayBaoCo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsGiayBaoCo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsHDGTGT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsHDGTGT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsHDGTGTDT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsHDGTGTDT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsHDGTGTRPT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsHDGTGTRPT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsKhachHang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsKhachHang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsLoaiChungTu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsLoaiChungTu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNhaCungCap.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNhaCungCap.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNhanVien.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNhanVien.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNhomSP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNhomSP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKC_DT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKC_DT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKC_HD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKC_HD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKTT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKTT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKTTRPT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKTTRPT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsNKTT_Header.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsNKTT_Header.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPhieuThu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPhieuThu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPhieuXuatKho.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPhieuXuatKho.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPTProc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPTProc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPXKDT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPXKDT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsPXKRPT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsPXKRPT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSanPham.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSanPham.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSCTVTHH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSCTVTHH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSCTVTHH_DT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSCTVTHH_DT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSCTVTHH_Header.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSCTVTHH_Header.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSC_Detail.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSC_Detail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSC_Header.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSC_Header.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSDDK.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSDDK.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsSoCai.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsSoCai.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTaiKhoanC1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTaiKhoanC1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTaiKhoanDN.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTaiKhoanDN.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTGNH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTGNH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTGNH_Detail.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTGNH_Detail.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTGNH_Header.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTGNH_Header.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLRBWDsTKCT.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLRBWDsTKCT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SoCai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoCai.Designer.cs">
+      <DependentUpon>SoCai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoChiTietVatTuHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoChiTietVatTuHangHoa.Designer.cs">
+      <DependentUpon>SoChiTietVatTuHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoNhatKyChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoNhatKyChung.Designer.cs">
+      <DependentUpon>SoNhatKyChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoNhatKyThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoNhatKyThuTien.Designer.cs">
+      <DependentUpon>SoNhatKyThuTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoTienGuiNganHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoTienGuiNganHang.Designer.cs">
+      <DependentUpon>SoTienGuiNganHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="BaoCaoCongNoPhaiThuKhachHang.resx">
+      <DependentUpon>BaoCaoCongNoPhaiThuKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHDGTGT.resx">
+      <DependentUpon>FormHDGTGT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoCongNoPhaiThuKhachHang.resx">
+      <DependentUpon>FrmBaoCaoCongNoPhaiThuKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoGiayBaoCo.resx">
+      <DependentUpon>FrmBaoCaoGiayBaoCo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoHoaDonGTGT.resx">
+      <DependentUpon>FrmBaoCaoHoaDonGTGT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoNKTT.resx">
+      <DependentUpon>FrmBaoCaoNKTT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoPhieuThu.resx">
+      <DependentUpon>FrmBaoCaoPhieuThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoPhieuXuatKho.resx">
+      <DependentUpon>FrmBaoCaoPhieuXuatKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoSoNhatKyChung.resx">
+      <DependentUpon>FrmBaoCaoSoNhatKyChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaoCaoTGNH.resx">
+      <DependentUpon>FrmBaoCaoTGNH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmButToan.resx">
+      <DependentUpon>FrmButToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChiTietChungTu.resx">
+      <DependentUpon>FrmChiTietChungTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChucVu.resx">
+      <DependentUpon>FrmChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDangNhap.resx">
+      <DependentUpon>FrmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoiMK.resx">
+      <DependentUpon>FrmDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiayBaoCo.resx">
+      <DependentUpon>FrmGiayBaoCo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKeToan.resx">
+      <DependentUpon>FrmKeToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKhachHang.resx">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoaiCT.resx">
+      <DependentUpon>FrmLoaiCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNhaCC.resx">
+      <DependentUpon>FrmNhaCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNhanVien.resx">
+      <DependentUpon>FrmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNhomSP.resx">
+      <DependentUpon>FrmNhomSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPhucHoiDL.resx">
+      <DependentUpon>FrmPhucHoiDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSanPham.resx">
+      <DependentUpon>FrmSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSoCai.resx">
+      <DependentUpon>FrmSoCai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSoChiTietVatTuHangHoa.resx">
+      <DependentUpon>FrmSoChiTietVatTuHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSoDuDK.resx">
+      <DependentUpon>FrmSoDuDK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaiKhoan.resx">
+      <DependentUpon>FrmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTKC1.resx">
+      <DependentUpon>FrmTKC1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTKCT.resx">
+      <DependentUpon>FrmTKCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrangChu.resx">
+      <DependentUpon>FrmTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPhieuthu.resx">
+      <DependentUpon>FrmPhieuthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuXuatKho.resx">
+      <DependentUpon>PhieuXuatKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptBCCNPTKH.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBCSNKC.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGiayBaoCo.rdlc" />
+    <EmbeddedResource Include="rptHDGTGT.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPhieuThu.rdlc" />
+    <EmbeddedResource Include="rptPhieuXuatKho.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSoCai.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSoCTVTHH.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSoNhatKyThuTien.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSoTienGuiNganHang.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoCai.resx">
+      <DependentUpon>SoCai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoChiTietVatTuHangHoa.resx">
+      <DependentUpon>SoChiTietVatTuHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoNhatKyChung.resx">
+      <DependentUpon>SoNhatKyChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoNhatKyThuTien.resx">
+      <DependentUpon>SoNhatKyThuTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoTienGuiNganHang.resx">
+      <DependentUpon>SoTienGuiNganHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLRBWDsButtoan.xsc">
+      <DependentUpon>QLRBWDsButtoan.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsButtoan.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsButtoan.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsButtoan.xss">
+      <DependentUpon>QLRBWDsButtoan.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsChucVu.xsc">
+      <DependentUpon>QLRBWDsChucVu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsChucVu.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsChucVu.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsChucVu.xss">
+      <DependentUpon>QLRBWDsChucVu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPTKH.xsc">
+      <DependentUpon>QLRBWDsCNPTKH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPTKH.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsCNPTKH.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsCNPTKH.xss">
+      <DependentUpon>QLRBWDsCNPTKH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPT_DT.xsc">
+      <DependentUpon>QLRBWDsCNPT_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPT_DT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsCNPT_DT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsCNPT_DT.xss">
+      <DependentUpon>QLRBWDsCNPT_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPT_HD.xsc">
+      <DependentUpon>QLRBWDsCNPT_HD.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCNPT_HD.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsCNPT_HD.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsCNPT_HD.xss">
+      <DependentUpon>QLRBWDsCNPT_HD.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCTTT.xsc">
+      <DependentUpon>QLRBWDsCTTT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsCTTT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsCTTT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsCTTT.xss">
+      <DependentUpon>QLRBWDsCTTT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsGBCRPT.xsc">
+      <DependentUpon>QLRBWDsGBCRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsGBCRPT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsGBCRPT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsGBCRPT.xss">
+      <DependentUpon>QLRBWDsGBCRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsGiayBaoCo.xsc">
+      <DependentUpon>QLRBWDsGiayBaoCo.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsGiayBaoCo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsGiayBaoCo.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsGiayBaoCo.xss">
+      <DependentUpon>QLRBWDsGiayBaoCo.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGT.xsc">
+      <DependentUpon>QLRBWDsHDGTGT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsHDGTGT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsHDGTGT.xss">
+      <DependentUpon>QLRBWDsHDGTGT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGTDT.xsc">
+      <DependentUpon>QLRBWDsHDGTGTDT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGTDT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsHDGTGTDT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsHDGTGTDT.xss">
+      <DependentUpon>QLRBWDsHDGTGTDT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGTRPT.xsc">
+      <DependentUpon>QLRBWDsHDGTGTRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsHDGTGTRPT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsHDGTGTRPT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsHDGTGTRPT.xss">
+      <DependentUpon>QLRBWDsHDGTGTRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsKhachHang.xsc">
+      <DependentUpon>QLRBWDsKhachHang.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsKhachHang.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsKhachHang.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsKhachHang.xss">
+      <DependentUpon>QLRBWDsKhachHang.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsLoaiChungTu.xsc">
+      <DependentUpon>QLRBWDsLoaiChungTu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsLoaiChungTu.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsLoaiChungTu.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsLoaiChungTu.xss">
+      <DependentUpon>QLRBWDsLoaiChungTu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhaCungCap.xsc">
+      <DependentUpon>QLRBWDsNhaCungCap.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhaCungCap.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNhaCungCap.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNhaCungCap.xss">
+      <DependentUpon>QLRBWDsNhaCungCap.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhanVien.xsc">
+      <DependentUpon>QLRBWDsNhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhanVien.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNhanVien.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNhanVien.xss">
+      <DependentUpon>QLRBWDsNhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhomSP.xsc">
+      <DependentUpon>QLRBWDsNhomSP.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNhomSP.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNhomSP.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNhomSP.xss">
+      <DependentUpon>QLRBWDsNhomSP.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC.xsc">
+      <DependentUpon>QLRBWDsNKC.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKC.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKC.xss">
+      <DependentUpon>QLRBWDsNKC.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC_DT.xsc">
+      <DependentUpon>QLRBWDsNKC_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC_DT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKC_DT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKC_DT.xss">
+      <DependentUpon>QLRBWDsNKC_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC_HD.xsc">
+      <DependentUpon>QLRBWDsNKC_HD.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKC_HD.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKC_HD.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKC_HD.xss">
+      <DependentUpon>QLRBWDsNKC_HD.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTT.xsc">
+      <DependentUpon>QLRBWDsNKTT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKTT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKTT.xss">
+      <DependentUpon>QLRBWDsNKTT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTTRPT.xsc">
+      <DependentUpon>QLRBWDsNKTTRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTTRPT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKTTRPT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKTTRPT.xss">
+      <DependentUpon>QLRBWDsNKTTRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTT_Header.xsc">
+      <DependentUpon>QLRBWDsNKTT_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsNKTT_Header.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsNKTT_Header.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsNKTT_Header.xss">
+      <DependentUpon>QLRBWDsNKTT_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPhieuThu.xsc">
+      <DependentUpon>QLRBWDsPhieuThu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPhieuThu.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPhieuThu.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPhieuThu.xss">
+      <DependentUpon>QLRBWDsPhieuThu.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPhieuXuatKho.xsc">
+      <DependentUpon>QLRBWDsPhieuXuatKho.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPhieuXuatKho.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPhieuXuatKho.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPhieuXuatKho.xss">
+      <DependentUpon>QLRBWDsPhieuXuatKho.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPT.xsc">
+      <DependentUpon>QLRBWDsPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPT.xss">
+      <DependentUpon>QLRBWDsPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPTProc.xsc">
+      <DependentUpon>QLRBWDsPTProc.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPTProc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPTProc.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPTProc.xss">
+      <DependentUpon>QLRBWDsPTProc.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPXKDT.xsc">
+      <DependentUpon>QLRBWDsPXKDT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPXKDT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPXKDT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPXKDT.xss">
+      <DependentUpon>QLRBWDsPXKDT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPXKRPT.xsc">
+      <DependentUpon>QLRBWDsPXKRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsPXKRPT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsPXKRPT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsPXKRPT.xss">
+      <DependentUpon>QLRBWDsPXKRPT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSanPham.xsc">
+      <DependentUpon>QLRBWDsSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSanPham.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSanPham.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSanPham.xss">
+      <DependentUpon>QLRBWDsSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH.xsc">
+      <DependentUpon>QLRBWDsSCTVTHH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSCTVTHH.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSCTVTHH.xss">
+      <DependentUpon>QLRBWDsSCTVTHH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_DT.xsc">
+      <DependentUpon>QLRBWDsSCTVTHH_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_DT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSCTVTHH_DT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_DT.xss">
+      <DependentUpon>QLRBWDsSCTVTHH_DT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_Header.xsc">
+      <DependentUpon>QLRBWDsSCTVTHH_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_Header.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSCTVTHH_Header.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSCTVTHH_Header.xss">
+      <DependentUpon>QLRBWDsSCTVTHH_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSC_Detail.xsc">
+      <DependentUpon>QLRBWDsSC_Detail.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSC_Detail.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSC_Detail.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSC_Detail.xss">
+      <DependentUpon>QLRBWDsSC_Detail.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSC_Header.xsc">
+      <DependentUpon>QLRBWDsSC_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSC_Header.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSC_Header.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSC_Header.xss">
+      <DependentUpon>QLRBWDsSC_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSDDK.xsc">
+      <DependentUpon>QLRBWDsSDDK.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSDDK.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSDDK.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSDDK.xss">
+      <DependentUpon>QLRBWDsSDDK.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSoCai.xsc">
+      <DependentUpon>QLRBWDsSoCai.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsSoCai.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsSoCai.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsSoCai.xss">
+      <DependentUpon>QLRBWDsSoCai.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTaiKhoanC1.xsc">
+      <DependentUpon>QLRBWDsTaiKhoanC1.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTaiKhoanC1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTaiKhoanC1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTaiKhoanC1.xss">
+      <DependentUpon>QLRBWDsTaiKhoanC1.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTaiKhoanDN.xsc">
+      <DependentUpon>QLRBWDsTaiKhoanDN.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTaiKhoanDN.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTaiKhoanDN.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTaiKhoanDN.xss">
+      <DependentUpon>QLRBWDsTaiKhoanDN.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH.xsc">
+      <DependentUpon>QLRBWDsTGNH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTGNH.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTGNH.xss">
+      <DependentUpon>QLRBWDsTGNH.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH_Detail.xsc">
+      <DependentUpon>QLRBWDsTGNH_Detail.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH_Detail.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTGNH_Detail.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTGNH_Detail.xss">
+      <DependentUpon>QLRBWDsTGNH_Detail.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH_Header.xsc">
+      <DependentUpon>QLRBWDsTGNH_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTGNH_Header.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTGNH_Header.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTGNH_Header.xss">
+      <DependentUpon>QLRBWDsTGNH_Header.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTKCT.xsc">
+      <DependentUpon>QLRBWDsTKCT.xsd</DependentUpon>
+    </None>
+    <None Include="QLRBWDsTKCT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLRBWDsTKCT.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLRBWDsTKCT.xss">
+      <DependentUpon>QLRBWDsTKCT.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HinhAnh\29.png" />
+    <Content Include="HinhAnh\Add.png" />
+    <Content Include="HinhAnh\Add1.png" />
+    <Content Include="HinhAnh\gh.png" />
+    <Content Include="HinhAnh\hien.png" />
+    <Content Include="HinhAnh\icon.png" />
+    <Content Include="HinhAnh\in.png" />
+    <Content Include="HinhAnh\pay.png" />
+    <Content Include="HinhAnh\remove.png" />
+    <Content Include="HinhAnh\save.png" />
+    <Content Include="HinhAnh\TK.png" />
+    <Content Include="HinhAnh\upd.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

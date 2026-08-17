@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|_4196_NguyenTriKhang_KLTN_||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|c:\\users\\trikhangpc\\onedrive\\desktop\\_4196_nguyentrikhang_kltn_ - copy\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmnhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\sotienguinganhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:sotienguinganhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\sonhatkythutien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:sonhatkythutien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\sonhatkychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:sonhatkychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\sochitietvattuhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:sochitietvattuhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\socai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:socai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\phieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:phieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmtkct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmtkct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmtkc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmtkc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmsodudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmsodudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmsochitietvattuhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmsochitietvattuhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmsocai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmsocai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmphuchoidl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmphuchoidl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmphieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmphieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmnhomsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmnhomsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmgiaybaoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmgiaybaoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmchitietchungtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmchitietchungtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbuttoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbuttoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaotgnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaotgnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaosonhatkychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaosonhatkychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaophieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaophieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaophieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaophieuthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaonktt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaonktt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaohoadongtgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaohoadongtgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\frmbaocaogiaybaoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|solutionrelative:frmbaocaogiaybaoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A91B0-71AA-4012-AB2C-9F2F34DBD3DB}|_4196_NguyenTriKhang_KLTN_.csproj|c:\\users\\trikhangpc\\onedrive\\desktop\\_4196_nguyentrikhang_kltn_ - copy\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1503,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_4196_NguyenTriKhang_KLTN_",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\_4196_NguyenTriKhang_KLTN_.csproj",
+              "RelativeDocumentMoniker": "_4196_NguyenTriKhang_KLTN_.csproj",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\_4196_NguyenTriKhang_KLTN_.csproj",
+              "RelativeToolTip": "_4196_NguyenTriKhang_KLTN_.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-13T02:52:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\KetNoi.cs",
+              "RelativeDocumentMoniker": "KetNoi.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\KetNoi.cs",
+              "RelativeToolTip": "KetNoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:52:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-12T13:48:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:45:28.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:45:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmNhaCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhaCC.cs",
+              "RelativeDocumentMoniker": "FrmNhaCC.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhaCC.cs [Design]",
+              "RelativeToolTip": "FrmNhaCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:44:54.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoTienGuiNganHang.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoTienGuiNganHang.cs",
+              "RelativeDocumentMoniker": "SoTienGuiNganHang.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoTienGuiNganHang.cs",
+              "RelativeToolTip": "SoTienGuiNganHang.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAswI4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:44:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoNhatKyThuTien.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoNhatKyThuTien.cs",
+              "RelativeDocumentMoniker": "SoNhatKyThuTien.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoNhatKyThuTien.cs",
+              "RelativeToolTip": "SoNhatKyThuTien.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAswJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:43:25.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoNhatKyChung.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoNhatKyChung.cs",
+              "RelativeDocumentMoniker": "SoNhatKyChung.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoNhatKyChung.cs",
+              "RelativeToolTip": "SoNhatKyChung.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAswJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:42:56.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoChiTietVatTuHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoChiTietVatTuHangHoa.cs",
+              "RelativeDocumentMoniker": "SoChiTietVatTuHangHoa.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoChiTietVatTuHangHoa.cs",
+              "RelativeToolTip": "SoChiTietVatTuHangHoa.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAwwN4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:41:57.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmNhaCC.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhaCC.cs",
+              "RelativeDocumentMoniker": "FrmNhaCC.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhaCC.cs",
+              "RelativeToolTip": "FrmNhaCC.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:12:56.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SoCai.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoCai.cs",
+              "RelativeDocumentMoniker": "SoCai.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\SoCai.cs",
+              "RelativeToolTip": "SoCai.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAwwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:41:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhieuXuatKho.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\PhieuXuatKho.cs",
+              "RelativeDocumentMoniker": "PhieuXuatKho.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\PhieuXuatKho.cs",
+              "RelativeToolTip": "PhieuXuatKho.cs",
+              "ViewState": "AQIAAOQCAAAAAAAAAAAwwAEDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:40:19.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmTrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTrangChu.cs",
+              "RelativeDocumentMoniker": "FrmTrangChu.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTrangChu.cs",
+              "RelativeToolTip": "FrmTrangChu.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAswO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:35:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmTKCT.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTKCT.cs",
+              "RelativeDocumentMoniker": "FrmTKCT.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTKCT.cs",
+              "RelativeToolTip": "FrmTKCT.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAADwvw4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:33:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmTKC1.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTKC1.cs",
+              "RelativeDocumentMoniker": "FrmTKC1.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTKC1.cs",
+              "RelativeToolTip": "FrmTKC1.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAADwv+kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:32:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "FrmTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmTaiKhoan.cs",
+              "RelativeToolTip": "FrmTaiKhoan.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAADwv+EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:31:49.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmSoDuDK.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoDuDK.cs",
+              "RelativeDocumentMoniker": "FrmSoDuDK.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoDuDK.cs",
+              "RelativeToolTip": "FrmSoDuDK.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAADwv08BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:31:11.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmSoChiTietVatTuHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoChiTietVatTuHangHoa.cs",
+              "RelativeDocumentMoniker": "FrmSoChiTietVatTuHangHoa.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoChiTietVatTuHangHoa.cs",
+              "RelativeToolTip": "FrmSoChiTietVatTuHangHoa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:27:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmSoCai.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoCai.cs",
+              "RelativeDocumentMoniker": "FrmSoCai.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSoCai.cs",
+              "RelativeToolTip": "FrmSoCai.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:26:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSanPham.cs",
+              "RelativeDocumentMoniker": "FrmSanPham.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmSanPham.cs",
+              "RelativeToolTip": "FrmSanPham.cs",
+              "ViewState": "AQIAAHoBAAAAAAAAAADwv5YBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:24:31.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmPhucHoiDL.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmPhucHoiDL.cs",
+              "RelativeDocumentMoniker": "FrmPhucHoiDL.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmPhucHoiDL.cs",
+              "RelativeToolTip": "FrmPhucHoiDL.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:23:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmPhieuthu.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmPhieuthu.cs",
+              "RelativeDocumentMoniker": "FrmPhieuthu.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmPhieuthu.cs",
+              "RelativeToolTip": "FrmPhieuthu.cs",
+              "ViewState": "AQIAADEDAAAAAAAAAADwv04DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:22:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmNhomSP.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhomSP.cs",
+              "RelativeDocumentMoniker": "FrmNhomSP.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhomSP.cs",
+              "RelativeToolTip": "FrmNhomSP.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAwwPwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:19:27.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhanVien.cs",
+              "RelativeDocumentMoniker": "FrmNhanVien.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmNhanVien.cs",
+              "RelativeToolTip": "FrmNhanVien.cs",
+              "ViewState": "AQIAALIBAAAAAAAAAADwv8sBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:17:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmLoaiCT.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmLoaiCT.cs",
+              "RelativeDocumentMoniker": "FrmLoaiCT.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmLoaiCT.cs",
+              "RelativeToolTip": "FrmLoaiCT.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAADwvw4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:12:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmKhachHang.cs",
+              "RelativeDocumentMoniker": "FrmKhachHang.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmKhachHang.cs",
+              "RelativeToolTip": "FrmKhachHang.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAADwv3kBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:11:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmKeToan.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmKeToan.cs",
+              "RelativeDocumentMoniker": "FrmKeToan.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmKeToan.cs",
+              "RelativeToolTip": "FrmKeToan.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAswAUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:10:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmGiayBaoCo.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmGiayBaoCo.cs",
+              "RelativeDocumentMoniker": "FrmGiayBaoCo.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmGiayBaoCo.cs",
+              "RelativeToolTip": "FrmGiayBaoCo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:09:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmDoiMK.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDoiMK.cs",
+              "RelativeDocumentMoniker": "FrmDoiMK.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDoiMK.cs",
+              "RelativeToolTip": "FrmDoiMK.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:08:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmDangNhap.cs",
+              "RelativeToolTip": "FrmDangNhap.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:07:11.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmChucVu.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmChucVu.cs",
+              "RelativeDocumentMoniker": "FrmChucVu.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmChucVu.cs",
+              "RelativeToolTip": "FrmChucVu.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAwwPwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:06:19.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmChiTietChungTu.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmChiTietChungTu.cs",
+              "RelativeDocumentMoniker": "FrmChiTietChungTu.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmChiTietChungTu.cs",
+              "RelativeToolTip": "FrmChiTietChungTu.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAADwvx4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:05:24.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmButToan.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmButToan.cs",
+              "RelativeDocumentMoniker": "FrmButToan.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmButToan.cs",
+              "RelativeToolTip": "FrmButToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:04:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmBaoCaoTGNH.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoTGNH.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoTGNH.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoTGNH.cs",
+              "RelativeToolTip": "FrmBaoCaoTGNH.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:00:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmBaoCaoSoNhatKyChung.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoSoNhatKyChung.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoSoNhatKyChung.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoSoNhatKyChung.cs",
+              "RelativeToolTip": "FrmBaoCaoSoNhatKyChung.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:15:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmBaoCaoPhieuXuatKho.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoPhieuXuatKho.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoPhieuXuatKho.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoPhieuXuatKho.cs",
+              "RelativeToolTip": "FrmBaoCaoPhieuXuatKho.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:59:19.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmBaoCaoPhieuThu.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoPhieuThu.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoPhieuThu.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoPhieuThu.cs",
+              "RelativeToolTip": "FrmBaoCaoPhieuThu.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:56:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmBaoCaoNKTT.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoNKTT.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoNKTT.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoNKTT.cs",
+              "RelativeToolTip": "FrmBaoCaoNKTT.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:55:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmBaoCaoHoaDonGTGT.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoHoaDonGTGT.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoHoaDonGTGT.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoHoaDonGTGT.cs",
+              "RelativeToolTip": "FrmBaoCaoHoaDonGTGT.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:53:41.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmBaoCaoGiayBaoCo.cs",
+              "DocumentMoniker": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoGiayBaoCo.cs",
+              "RelativeDocumentMoniker": "FrmBaoCaoGiayBaoCo.cs",
+              "ToolTip": "C:\\Users\\TRIKHANGPC\\OneDrive\\Desktop\\_4196_NguyenTriKhang_KLTN_ - Copy\\FrmBaoCaoGiayBaoCo.cs",
+              "RelativeToolTip": "FrmBaoCaoGiayBaoCo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:52:48.029Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 791,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
